@@ -1,0 +1,2 @@
+# movies
+Kino platforformasini yaratdim
